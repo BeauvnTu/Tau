@@ -2,23 +2,17 @@
 
 A repo saved config files to setup dev env.
 
-## Editor
-* [Neovim](https://neovim.io/): Vim with many useful plugin.
-* [Vscode](https://code.visualstudio.com/): The most widely used editor with rich ecosystem plugin.Then install the `code` command to launch the editor fast.
-* [Cursor](https://cursor.com/en): AI vscde with powerful code assistance.
-* [Zed](https://zed.dev/): A high-performance editor, but with a limited plugin ecosystem.
+## How to use 
 
-## Broswer
-* [Chrome](https://www.google.com/chrome/): Best Browser.
-* [Arc Broswer](https://arc.net/): The Broswer with the best tab management experoence.
-* [Edge](https://www.microsoft.com/en-us/edge/mac): Microsoft Browser.
 
-## Windows Only
+## Software I used to develop
+
+### Windows Only
 * [Scoop](https://scoop.sh/): Windows Software Management.
 * [bandzip](https://en.bandisoft.com/bandizip/): Bandizip is a powerful archiver that provides an ultrafast processing speed and convenient features.It is available for free, and the paid editions offers a variety of advanced features.
 * [Visual Studio](https://visualstudio.microsoft.com/zh-hans/): Microsoft Powerful IDE.
 
-## Mac Only
+### Mac Only
 * [HomeBrew](https://brew.sh/):Mac Software Management.
 ```shell
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -28,7 +22,19 @@ A repo saved config files to setup dev env.
 ```shell
 brew install kitty
 ```
-## Develop
+
+### Editor
+* [Neovim](https://neovim.io/): Vim with many useful plugin.
+* [Vscode](https://code.visualstudio.com/): The most widely used editor with rich ecosystem plugin.Then install the `code` command to launch the editor fast.
+* [Cursor](https://cursor.com/en): AI vscde with powerful code assistance.
+* [Zed](https://zed.dev/): A high-performance editor, but with a limited plugin ecosystem.
+
+### Broswer
+* [Chrome](https://www.google.com/chrome/): Best Browser.
+* [Arc Broswer](https://arc.net/): The Broswer with the best tab management experoence.
+* [Edge](https://www.microsoft.com/en-us/edge/mac): Microsoft Browser.
+
+### Develop
 * [Git](https://git-scm.com/): software version management. git built-in on Mac, but windows should run the shell command to install by yourself.
 ``` shell
 # on windows
